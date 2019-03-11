@@ -1,0 +1,14 @@
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\bin\Debug\Детская поликлиника1.exe.config
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\bin\Debug\Детская поликлиника1.exe
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\bin\Debug\Детская поликлиника1.pdb
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская поликлиника1.csprojAssemblyReference.cache
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Form1.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Form2.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Form3.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Form4.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Form5.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская_поликлиника1.Properties.Resources.resources
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская поликлиника1.csproj.GenerateResource.cache
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская поликлиника1.csproj.CoreCompileInputs.cache
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская поликлиника1.exe
+C:\Users\Милашка\source\repos\Детская поликлиника1\Детская поликлиника1\obj\Debug\Детская поликлиника1.pdb
